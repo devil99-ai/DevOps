@@ -12,7 +12,7 @@ export class AwsService {
     // AWS Credentials
     config.update({
       region: 'ap-south-1',
-      credentials: new Credentials('AKIASFQH3BHIQQUCIC6J', 'SEHkdxUUm/RhH25p3dyJcG/TzCp6/td6b4HbZlGQ')
+      credentials: new Credentials('AKIA5RLDPKD6A374FG3E', '6H5FmLBxpI43GCRQe1ujwpCgB/5MC+oScn9H3Ogr')
     })
   }
 
